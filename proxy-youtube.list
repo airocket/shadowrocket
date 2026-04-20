@@ -1,7 +1,6 @@
 # NAME: Proxy
 # AUTHOR: Misha Tugushev
 # REPO: https://github.com/misha-tgshv/shadowrocket-configuration-file
-# UPDATED: 2024-08-05 13:55:00
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtu.be
